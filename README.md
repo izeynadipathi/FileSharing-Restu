@@ -3,7 +3,7 @@
 Bot Telegram untuk menyimpan Postingan atau File yang Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 File Sharing Khusus 18+ [Click Di Sini](
-https://github.com/restuap17/FileSharing-Pekob)
+https://https://github.com/izeynadipathi/FileSharing-Restu
 ##
 
 **Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@InfoBotShr](https://www.telegram.dog/Sharin)**
@@ -23,7 +23,7 @@ https://github.com/restuap17/FileSharing-Pekob)
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/restuap17/FileSharing-Restu)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/izeynadipathi/FileSharing-Restu
 
 #### Deploy in your VPS
 ````bash
